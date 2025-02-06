@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 </p>
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=taketo45)](https://github.com/ryo-ma/github-profile-trophy)
 
 
