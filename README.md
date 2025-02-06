@@ -1,4 +1,4 @@
-## Hi there 👋
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 <!--
 **taketo45/taketo45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <!-- 1. GitHub usernameを変更 -->
 
 <!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+
 
 - 🧑‍💻 I’m currently learning G's ACADEMY!
 - 📫 How to reach me: [Twitter - @Guy_GsAcademy](https://x.com/Guy_GsAcademy)
