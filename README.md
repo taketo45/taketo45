@@ -16,24 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
-  <a href="https://github.com/taketo45/taketo45/">
-    <img src="https://komarev.com/ghpvc/?username=taketo45" alt="taketo45" />
-  </a>
-  <a href="http://twitter.com/Guy_GsAcademy">
-    <img height="20" src="https://img.shields.io/twitter/follow/Guy_GsAcademy?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/taketo45">
-    <img height="20" src="https://img.shields.io/github/followers/taketo45?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/74352/taketo45">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/74352?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
-  <a href="http://qiita.com/taketo45">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/taketo45/posts.svg" />
-  </a>
-  <//qiita.com/taketo45">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/taketo45/contributions.svg" />
-  </a>
+  <a href="https://github.com/taketo45/taketo45/"><img src="https://komarev.com/ghpvc/?username=taketo45" alt="taketo45" /></a>
+  <a href="http://twitter.com/Guy_GsAcademy"><img height="20" src="https://img.shields.io/twitter/follow/Guy_GsAcademy?label=Twitter&logo=twitter&style=flat" /></a>
+  <a href="https://github.com/taketo45"><img height="20" src="https://img.shields.io/github/followers/taketo45?label=follow&logo=github&style=flat" /></a>
+  <a href="https://stackoverflow.com/users/74352/taketo45"><img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/74352?label=StackOverflow&logo=stack-overflow&style=flat" /></a>
+  <a href="http://qiita.com/taketo45"><img height="20" src="https://qiita-badge.apiapi.app/s/taketo45/posts.svg" /></a>
+  <//qiita.com/taketo45"><img height="20" src="https://qiita-badge.apiapi.app/s/taketo45/contributions.svg" /></a>
 </p>
 
 
