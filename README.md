@@ -62,4 +62,8 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=taketo45)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!-- 4. へびを表示 -->
+<!-- 参考にした記事：https://qiita.com/Keichan_15/items/7d0595369d6b6e321ede -->
+![](https://raw.githubusercontent.com/taketo45/taketo45/output/github-contribution-grid-snake.svg)
+
 
