@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 <!-- 2. プロフィールや連絡先を変更 -->
 
 
-- 🧑‍💻 I’m currently learning programing at G's ACADEMY!
 - 📫 How to reach me: [Twitter - @Guy_GsAcademy](https://x.com/Guy_GsAcademy)
 <br>
 
